@@ -24,7 +24,7 @@ This project focuses on enhancing audio resolution using Generative Adversarial 
 * This will output the reconstructed high-resolution audio and save the results in the specified directory.
 * The model's performance is evaluated on a separate test dataset, and the results are logged for each epoch. The test script provides metrics that assess the model's ability to reconstruct high-resolution audio.
 
-### Results
+### Results:
 * During training, the model shows varying levels of performance across different epochs, with both training and validation losses tracked closely. The results of this training are critical for understanding how well the model generalizes to unseen data.
 
   
