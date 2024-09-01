@@ -1,1 +1,1 @@
-# audio_super_resolution_proj
+# Audio Super-Resolution Using GANs and ViT
