@@ -24,7 +24,7 @@ This project focuses on enhancing audio resolution using Generative Adversarial 
 * This will output the reconstructed high-resolution audio and save the results in the specified directory.
 * The model's performance is evaluated on a separate test dataset, and the results are logged for each epoch. The test script provides metrics that assess the model's ability to reconstruct high-resolution audio.
 
-### [Results:]([https://www.google.com](https://github.com/itayt7/audio_super_resolution_proj/blob/b51bbf7f95f26bb3f8ffa14f6bce5f04a382de15/audio%20super%20resolution.xlsx))
+### [Results:](https://github.com/itayt7/audio_super_resolution_proj/blob/b51bbf7f95f26bb3f8ffa14f6bce5f04a382de15/audio%20super%20resolution.xlsx)
 
 * During training, the model shows varying levels of performance across different epochs, with both training and validation losses tracked closely. The results of this training are critical for understanding how well the model generalizes to unseen data.
 
