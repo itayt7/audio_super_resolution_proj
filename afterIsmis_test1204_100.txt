@@ -1,0 +1,710 @@
+EPOCH 1
+	 -> Discriminative Loss during D Training = 4.105405807495117, during G Training = 9.83096694946289
+	 -> Generative Loss = 108.72415161132812 ---> alpha * 38.97328567504883 beta * 4.105405807495117
+	 -> Validation Loss = 135.72991943359375
+
+EPOCH 2
+	 -> Discriminative Loss during D Training = 4.082358360290527, during G Training = 9.9536714553833
+	 -> Generative Loss = 141.6973419189453 ---> alpha * 38.92363739013672 beta * 4.082358360290527
+	 -> Validation Loss = 213.58773803710938
+
+EPOCH 3
+	 -> Discriminative Loss during D Training = 4.153059005737305, during G Training = 5.32911491394043
+	 -> Generative Loss = 177.02085876464844 ---> alpha * 38.87959289550781 beta * 4.153059005737305
+	 -> Validation Loss = 185.06687927246094
+
+EPOCH 4
+	 -> Discriminative Loss during D Training = 4.142004013061523, during G Training = 5.980900764465332
+	 -> Generative Loss = 192.94540405273438 ---> alpha * 38.47947311401367 beta * 4.142004013061523
+	 -> Validation Loss = 180.0926513671875
+
+EPOCH 5
+	 -> Discriminative Loss during D Training = 4.271196365356445, during G Training = 4.114068031311035
+	 -> Generative Loss = 166.87533569335938 ---> alpha * 38.789306640625 beta * 4.271196365356445
+	 -> Validation Loss = 180.98800659179688
+
+EPOCH 6
+	 -> Discriminative Loss during D Training = 4.65855598449707, during G Training = 11.758610725402832
+	 -> Generative Loss = 187.5488739013672 ---> alpha * 38.93098068237305 beta * 4.65855598449707
+	 -> Validation Loss = 162.96998596191406
+
+EPOCH 7
+	 -> Discriminative Loss during D Training = 4.725131034851074, during G Training = 11.782705307006836
+	 -> Generative Loss = 178.72109985351562 ---> alpha * 39.27146911621094 beta * 4.725131034851074
+	 -> Validation Loss = 175.25137329101562
+
+EPOCH 8
+	 -> Discriminative Loss during D Training = 4.847058296203613, during G Training = 9.394275665283203
+	 -> Generative Loss = 445.75103759765625 ---> alpha * 39.51980972290039 beta * 4.847058296203613
+	 -> Validation Loss = 282.94049072265625
+
+EPOCH 9
+	 -> Discriminative Loss during D Training = 5.059136867523193, during G Training = 12.895856857299805
+	 -> Generative Loss = 188.0797576904297 ---> alpha * 39.254268646240234 beta * 5.059136867523193
+	 -> Validation Loss = 219.83795166015625
+
+EPOCH 10
+	 -> Discriminative Loss during D Training = 5.007688522338867, during G Training = 11.641460418701172
+	 -> Generative Loss = 152.00070190429688 ---> alpha * 38.86615753173828 beta * 5.007688522338867
+	 -> Validation Loss = 192.09930419921875
+
+EPOCH 11
+	 -> Discriminative Loss during D Training = 5.032292366027832, during G Training = 12.323511123657227
+	 -> Generative Loss = 202.98104858398438 ---> alpha * 38.64891052246094 beta * 5.032292366027832
+	 -> Validation Loss = 184.78880310058594
+
+EPOCH 12
+	 -> Discriminative Loss during D Training = 5.06119966506958, during G Training = 10.131430625915527
+	 -> Generative Loss = 169.6329803466797 ---> alpha * 39.19129180908203 beta * 5.06119966506958
+	 -> Validation Loss = 227.4967041015625
+
+EPOCH 13
+	 -> Discriminative Loss during D Training = 5.085383415222168, during G Training = 11.619770050048828
+	 -> Generative Loss = 210.7742919921875 ---> alpha * 39.908390045166016 beta * 5.085383415222168
+	 -> Validation Loss = 250.14590454101562
+
+EPOCH 14
+	 -> Discriminative Loss during D Training = 5.086513519287109, during G Training = 9.470846176147461
+	 -> Generative Loss = 223.9648895263672 ---> alpha * 39.3197021484375 beta * 5.086513519287109
+	 -> Validation Loss = 234.88583374023438
+
+EPOCH 15
+	 -> Discriminative Loss during D Training = 5.063129425048828, during G Training = 13.198040008544922
+	 -> Generative Loss = 223.31077575683594 ---> alpha * 39.70391845703125 beta * 5.063129425048828
+	 -> Validation Loss = 228.64373779296875
+
+EPOCH 16
+	 -> Discriminative Loss during D Training = 5.035510063171387, during G Training = 8.912127494812012
+	 -> Generative Loss = 263.0518798828125 ---> alpha * 39.74517059326172 beta * 5.035510063171387
+	 -> Validation Loss = 249.1610107421875
+
+EPOCH 17
+	 -> Discriminative Loss during D Training = 5.266308307647705, during G Training = 8.921670913696289
+	 -> Generative Loss = 225.70428466796875 ---> alpha * 39.06226348876953 beta * 5.266308307647705
+	 -> Validation Loss = 230.51651000976562
+
+EPOCH 18
+	 -> Discriminative Loss during D Training = 5.3981547355651855, during G Training = 9.64457893371582
+	 -> Generative Loss = 218.3201904296875 ---> alpha * 39.083831787109375 beta * 5.3981547355651855
+	 -> Validation Loss = 244.41989135742188
+
+EPOCH 19
+	 -> Discriminative Loss during D Training = 5.3625168800354, during G Training = 10.893476486206055
+	 -> Generative Loss = 195.45164489746094 ---> alpha * 39.07587432861328 beta * 5.3625168800354
+	 -> Validation Loss = 220.1517791748047
+
+EPOCH 20
+	 -> Discriminative Loss during D Training = 5.193705081939697, during G Training = 10.312121391296387
+	 -> Generative Loss = 410.39404296875 ---> alpha * 39.064640045166016 beta * 5.193705081939697
+	 -> Validation Loss = 213.2210693359375
+
+EPOCH 21
+	 -> Discriminative Loss during D Training = 4.862963676452637, during G Training = 0.805133044719696
+	 -> Generative Loss = 173.1651153564453 ---> alpha * 39.51559066772461 beta * 4.862963676452637
+	 -> Validation Loss = 148.10330200195312
+
+EPOCH 22
+	 -> Discriminative Loss during D Training = 5.036596775054932, during G Training = 12.666885375976562
+	 -> Generative Loss = 253.87338256835938 ---> alpha * 39.03803634643555 beta * 5.036596775054932
+	 -> Validation Loss = 209.88543701171875
+
+EPOCH 23
+	 -> Discriminative Loss during D Training = 5.168498992919922, during G Training = 14.020342826843262
+	 -> Generative Loss = 153.19236755371094 ---> alpha * 38.795692443847656 beta * 5.168498992919922
+	 -> Validation Loss = 170.62167358398438
+
+EPOCH 24
+	 -> Discriminative Loss during D Training = 5.27299690246582, during G Training = 10.669342041015625
+	 -> Generative Loss = 152.12448120117188 ---> alpha * 38.96137619018555 beta * 5.27299690246582
+	 -> Validation Loss = 178.41659545898438
+
+EPOCH 25
+	 -> Discriminative Loss during D Training = 5.12775182723999, during G Training = 9.802639961242676
+	 -> Generative Loss = 118.29472351074219 ---> alpha * 38.94775390625 beta * 5.12775182723999
+	 -> Validation Loss = 203.71597290039062
+
+EPOCH 26
+	 -> Discriminative Loss during D Training = 5.241311550140381, during G Training = 9.908347129821777
+	 -> Generative Loss = 221.42214965820312 ---> alpha * 38.906829833984375 beta * 5.241311550140381
+	 -> Validation Loss = 197.3213653564453
+
+EPOCH 27
+	 -> Discriminative Loss during D Training = 5.587247371673584, during G Training = 10.35770034790039
+	 -> Generative Loss = 217.59927368164062 ---> alpha * 38.80605697631836 beta * 5.587247371673584
+	 -> Validation Loss = 228.08609008789062
+
+EPOCH 28
+	 -> Discriminative Loss during D Training = 5.676849365234375, during G Training = 13.98901081085205
+	 -> Generative Loss = 188.21115112304688 ---> alpha * 39.33049774169922 beta * 5.676849365234375
+	 -> Validation Loss = 185.75204467773438
+
+EPOCH 29
+	 -> Discriminative Loss during D Training = 5.522223472595215, during G Training = 12.258034706115723
+	 -> Generative Loss = 203.14263916015625 ---> alpha * 39.05121994018555 beta * 5.522223472595215
+	 -> Validation Loss = 200.22093200683594
+
+EPOCH 30
+	 -> Discriminative Loss during D Training = 5.666253089904785, during G Training = 10.23906421661377
+	 -> Generative Loss = 299.364013671875 ---> alpha * 39.047489166259766 beta * 5.666253089904785
+	 -> Validation Loss = 175.79885864257812
+
+EPOCH 31
+	 -> Discriminative Loss during D Training = 5.713565349578857, during G Training = 11.337255477905273
+	 -> Generative Loss = 743.0352172851562 ---> alpha * 39.283966064453125 beta * 5.713565349578857
+	 -> Validation Loss = 227.873291015625
+
+EPOCH 32
+	 -> Discriminative Loss during D Training = 5.712145805358887, during G Training = 13.451136589050293
+	 -> Generative Loss = 249.13372802734375 ---> alpha * 39.18086624145508 beta * 5.712145805358887
+	 -> Validation Loss = 183.30410766601562
+
+EPOCH 33
+	 -> Discriminative Loss during D Training = 5.702065467834473, during G Training = 10.268904685974121
+	 -> Generative Loss = 248.7882080078125 ---> alpha * 39.140830993652344 beta * 5.702065467834473
+	 -> Validation Loss = 214.08815002441406
+
+EPOCH 34
+	 -> Discriminative Loss during D Training = 5.5782976150512695, during G Training = 12.08938980102539
+	 -> Generative Loss = 292.4483337402344 ---> alpha * 39.3321418762207 beta * 5.5782976150512695
+	 -> Validation Loss = 224.01861572265625
+
+EPOCH 35
+	 -> Discriminative Loss during D Training = 5.502859115600586, during G Training = 11.481156349182129
+	 -> Generative Loss = 135.51370239257812 ---> alpha * 38.93989944458008 beta * 5.502859115600586
+	 -> Validation Loss = 194.29736328125
+
+EPOCH 36
+	 -> Discriminative Loss during D Training = 5.542337894439697, during G Training = 13.43859577178955
+	 -> Generative Loss = 163.35287475585938 ---> alpha * 39.00499725341797 beta * 5.542337894439697
+	 -> Validation Loss = 209.6124267578125
+
+EPOCH 37
+	 -> Discriminative Loss during D Training = 5.609610080718994, during G Training = 10.462554931640625
+	 -> Generative Loss = 212.50401306152344 ---> alpha * 38.91415786743164 beta * 5.609610080718994
+	 -> Validation Loss = 236.70010375976562
+
+EPOCH 38
+	 -> Discriminative Loss during D Training = 5.828836917877197, during G Training = 13.867051124572754
+	 -> Generative Loss = 190.9386749267578 ---> alpha * 38.7056770324707 beta * 5.828836917877197
+	 -> Validation Loss = 208.4834442138672
+
+EPOCH 39
+	 -> Discriminative Loss during D Training = 6.041147708892822, during G Training = 12.978374481201172
+	 -> Generative Loss = 314.2461853027344 ---> alpha * 38.992435455322266 beta * 6.041147708892822
+	 -> Validation Loss = 234.06219482421875
+
+EPOCH 40
+	 -> Discriminative Loss during D Training = 6.289237022399902, during G Training = 13.197892189025879
+	 -> Generative Loss = 162.5204620361328 ---> alpha * 40.72024154663086 beta * 6.289237022399902
+	 -> Validation Loss = 252.3853759765625
+
+EPOCH 41
+	 -> Discriminative Loss during D Training = 6.546679496765137, during G Training = 8.315279006958008
+	 -> Generative Loss = 295.92242431640625 ---> alpha * 39.40107727050781 beta * 6.546679496765137
+	 -> Validation Loss = 211.36441040039062
+
+EPOCH 42
+	 -> Discriminative Loss during D Training = 6.53643274307251, during G Training = 15.841989517211914
+	 -> Generative Loss = 196.93630981445312 ---> alpha * 39.33494186401367 beta * 6.53643274307251
+	 -> Validation Loss = 191.49862670898438
+
+EPOCH 43
+	 -> Discriminative Loss during D Training = 6.5070109367370605, during G Training = 13.573738098144531
+	 -> Generative Loss = 153.22509765625 ---> alpha * 39.026390075683594 beta * 6.5070109367370605
+	 -> Validation Loss = 235.74974060058594
+
+EPOCH 44
+	 -> Discriminative Loss during D Training = 6.410624980926514, during G Training = 11.489089012145996
+	 -> Generative Loss = 263.42169189453125 ---> alpha * 39.05509948730469 beta * 6.410624980926514
+	 -> Validation Loss = 209.29080200195312
+
+EPOCH 45
+	 -> Discriminative Loss during D Training = 6.004752159118652, during G Training = 15.107715606689453
+	 -> Generative Loss = 324.2103271484375 ---> alpha * 38.94797897338867 beta * 6.004752159118652
+	 -> Validation Loss = 240.127197265625
+
+EPOCH 46
+	 -> Discriminative Loss during D Training = 6.334134101867676, during G Training = 12.120941162109375
+	 -> Generative Loss = 261.5324401855469 ---> alpha * 39.138301849365234 beta * 6.334134101867676
+	 -> Validation Loss = 233.2101593017578
+
+EPOCH 47
+	 -> Discriminative Loss during D Training = 6.4527506828308105, during G Training = 15.719306945800781
+	 -> Generative Loss = 267.2900695800781 ---> alpha * 39.44611740112305 beta * 6.4527506828308105
+	 -> Validation Loss = 237.01600646972656
+
+EPOCH 48
+	 -> Discriminative Loss during D Training = 6.437246322631836, during G Training = 14.141138076782227
+	 -> Generative Loss = 262.7886047363281 ---> alpha * 39.050907135009766 beta * 6.437246322631836
+	 -> Validation Loss = 167.5560302734375
+
+EPOCH 49
+	 -> Discriminative Loss during D Training = 6.576323986053467, during G Training = 12.9563570022583
+	 -> Generative Loss = 342.2987365722656 ---> alpha * 38.823856353759766 beta * 6.576323986053467
+	 -> Validation Loss = 252.30453491210938
+
+EPOCH 50
+	 -> Discriminative Loss during D Training = 6.5014142990112305, during G Training = 13.340529441833496
+	 -> Generative Loss = 188.2453155517578 ---> alpha * 38.63104248046875 beta * 6.5014142990112305
+	 -> Validation Loss = 200.85891723632812
+
+EPOCH 51
+	 -> Discriminative Loss during D Training = 6.663804054260254, during G Training = 16.696264266967773
+	 -> Generative Loss = 192.05972290039062 ---> alpha * 38.9122200012207 beta * 6.663804054260254
+	 -> Validation Loss = 227.7489471435547
+
+EPOCH 52
+	 -> Discriminative Loss during D Training = 7.023119926452637, during G Training = 14.627484321594238
+	 -> Generative Loss = 276.06787109375 ---> alpha * 39.017520904541016 beta * 7.023119926452637
+	 -> Validation Loss = 192.57945251464844
+
+EPOCH 53
+	 -> Discriminative Loss during D Training = 6.839616775512695, during G Training = 12.978965759277344
+	 -> Generative Loss = 225.72412109375 ---> alpha * 38.6894416809082 beta * 6.839616775512695
+	 -> Validation Loss = 212.60621643066406
+
+EPOCH 54
+	 -> Discriminative Loss during D Training = 6.4047675132751465, during G Training = 11.021760940551758
+	 -> Generative Loss = 238.62051391601562 ---> alpha * 38.878089904785156 beta * 6.4047675132751465
+	 -> Validation Loss = 196.81787109375
+
+EPOCH 55
+	 -> Discriminative Loss during D Training = 6.502359867095947, during G Training = 7.104174613952637
+	 -> Generative Loss = 197.42092895507812 ---> alpha * 38.81169891357422 beta * 6.502359867095947
+	 -> Validation Loss = 203.68382263183594
+
+EPOCH 56
+	 -> Discriminative Loss during D Training = 6.712507247924805, during G Training = 16.537246704101562
+	 -> Generative Loss = 182.03627014160156 ---> alpha * 38.89938735961914 beta * 6.712507247924805
+	 -> Validation Loss = 182.6695098876953
+
+EPOCH 57
+	 -> Discriminative Loss during D Training = 6.7545061111450195, during G Training = 6.897485733032227
+	 -> Generative Loss = 168.17312622070312 ---> alpha * 38.50187683105469 beta * 6.7545061111450195
+	 -> Validation Loss = 206.9935302734375
+
+EPOCH 58
+	 -> Discriminative Loss during D Training = 6.75708532333374, during G Training = 3.023648977279663
+	 -> Generative Loss = 168.6400909423828 ---> alpha * 38.83303451538086 beta * 6.75708532333374
+	 -> Validation Loss = 196.20809936523438
+
+EPOCH 59
+	 -> Discriminative Loss during D Training = 6.930400848388672, during G Training = 15.605562210083008
+	 -> Generative Loss = 167.67803955078125 ---> alpha * 38.62615203857422 beta * 6.930400848388672
+	 -> Validation Loss = 159.45887756347656
+
+EPOCH 60
+	 -> Discriminative Loss during D Training = 7.151547431945801, during G Training = 12.663476943969727
+	 -> Generative Loss = 245.04786682128906 ---> alpha * 38.51805877685547 beta * 7.151547431945801
+	 -> Validation Loss = 210.7607421875
+
+EPOCH 61
+	 -> Discriminative Loss during D Training = 7.258548259735107, during G Training = 15.273675918579102
+	 -> Generative Loss = 293.8966064453125 ---> alpha * 38.9199333190918 beta * 7.258548259735107
+	 -> Validation Loss = 201.87022399902344
+
+EPOCH 62
+	 -> Discriminative Loss during D Training = 7.2425150871276855, during G Training = 15.337299346923828
+	 -> Generative Loss = 217.02645874023438 ---> alpha * 38.78377151489258 beta * 7.2425150871276855
+	 -> Validation Loss = 222.05935668945312
+
+EPOCH 63
+	 -> Discriminative Loss during D Training = 7.4281392097473145, during G Training = 17.33620834350586
+	 -> Generative Loss = 201.02716064453125 ---> alpha * 38.472564697265625 beta * 7.4281392097473145
+	 -> Validation Loss = 202.2882080078125
+
+EPOCH 64
+	 -> Discriminative Loss during D Training = 7.417243003845215, during G Training = 18.832813262939453
+	 -> Generative Loss = 274.65106201171875 ---> alpha * 39.11031723022461 beta * 7.417243003845215
+	 -> Validation Loss = 197.47677612304688
+
+EPOCH 65
+	 -> Discriminative Loss during D Training = 7.50193977355957, during G Training = 19.00088119506836
+	 -> Generative Loss = 213.0921630859375 ---> alpha * 39.01292037963867 beta * 7.50193977355957
+	 -> Validation Loss = 194.21485900878906
+
+EPOCH 66
+	 -> Discriminative Loss during D Training = 7.419095993041992, during G Training = 15.612892150878906
+	 -> Generative Loss = 308.9537353515625 ---> alpha * 39.09132766723633 beta * 7.419095993041992
+	 -> Validation Loss = 199.26275634765625
+
+EPOCH 67
+	 -> Discriminative Loss during D Training = 7.527043342590332, during G Training = 16.349699020385742
+	 -> Generative Loss = 186.8337860107422 ---> alpha * 39.13338851928711 beta * 7.527043342590332
+	 -> Validation Loss = 143.93914794921875
+
+EPOCH 68
+	 -> Discriminative Loss during D Training = 7.456456661224365, during G Training = 9.459383964538574
+	 -> Generative Loss = 547.6016845703125 ---> alpha * 38.93475341796875 beta * 7.456456661224365
+	 -> Validation Loss = 212.54989624023438
+
+EPOCH 69
+	 -> Discriminative Loss during D Training = 7.525088787078857, during G Training = 16.835647583007812
+	 -> Generative Loss = 216.7479248046875 ---> alpha * 38.645606994628906 beta * 7.525088787078857
+	 -> Validation Loss = 223.95504760742188
+
+EPOCH 70
+	 -> Discriminative Loss during D Training = 7.566858768463135, during G Training = 11.734430313110352
+	 -> Generative Loss = 247.94140625 ---> alpha * 38.998416900634766 beta * 7.566858768463135
+	 -> Validation Loss = 226.9527587890625
+
+EPOCH 71
+	 -> Discriminative Loss during D Training = 7.533027172088623, during G Training = 16.64700698852539
+	 -> Generative Loss = 353.83343505859375 ---> alpha * 38.53425979614258 beta * 7.533027172088623
+	 -> Validation Loss = 239.73959350585938
+
+EPOCH 72
+	 -> Discriminative Loss during D Training = 7.4199371337890625, during G Training = 13.81686782836914
+	 -> Generative Loss = 278.9412841796875 ---> alpha * 38.709930419921875 beta * 7.4199371337890625
+	 -> Validation Loss = 318.46337890625
+
+EPOCH 73
+	 -> Discriminative Loss during D Training = 7.3647050857543945, during G Training = 16.01068687438965
+	 -> Generative Loss = 203.7650909423828 ---> alpha * 39.846126556396484 beta * 7.3647050857543945
+	 -> Validation Loss = 279.9220886230469
+
+EPOCH 74
+	 -> Discriminative Loss during D Training = 7.4324212074279785, during G Training = 7.677138328552246
+	 -> Generative Loss = 211.78524780273438 ---> alpha * 39.402854919433594 beta * 7.4324212074279785
+	 -> Validation Loss = 304.8236083984375
+
+EPOCH 75
+	 -> Discriminative Loss during D Training = 7.329598426818848, during G Training = 18.543323516845703
+	 -> Generative Loss = 565.1806640625 ---> alpha * 39.27138900756836 beta * 7.329598426818848
+	 -> Validation Loss = 259.2237243652344
+
+EPOCH 76
+	 -> Discriminative Loss during D Training = 7.490522384643555, during G Training = 13.407543182373047
+	 -> Generative Loss = 250.1173858642578 ---> alpha * 39.134002685546875 beta * 7.490522384643555
+	 -> Validation Loss = 258.915283203125
+
+EPOCH 77
+	 -> Discriminative Loss during D Training = 7.466017246246338, during G Training = 19.01953887939453
+	 -> Generative Loss = 219.91690063476562 ---> alpha * 39.22439193725586 beta * 7.466017246246338
+	 -> Validation Loss = 273.00103759765625
+
+EPOCH 78
+	 -> Discriminative Loss during D Training = 7.486393928527832, during G Training = 14.845549583435059
+	 -> Generative Loss = 291.08990478515625 ---> alpha * 40.69660949707031 beta * 7.486393928527832
+	 -> Validation Loss = 313.0418701171875
+
+EPOCH 79
+	 -> Discriminative Loss during D Training = 7.832411766052246, during G Training = 13.608444213867188
+	 -> Generative Loss = 238.9477081298828 ---> alpha * 40.46463394165039 beta * 7.832411766052246
+	 -> Validation Loss = 281.2131652832031
+
+EPOCH 80
+	 -> Discriminative Loss during D Training = 7.893859386444092, during G Training = 17.247356414794922
+	 -> Generative Loss = 334.41705322265625 ---> alpha * 40.0359001159668 beta * 7.893859386444092
+	 -> Validation Loss = 352.29229736328125
+
+EPOCH 81
+	 -> Discriminative Loss during D Training = 7.822070121765137, during G Training = 6.831220626831055
+	 -> Generative Loss = 211.24549865722656 ---> alpha * 40.718605041503906 beta * 7.822070121765137
+	 -> Validation Loss = 339.03436279296875
+
+EPOCH 82
+	 -> Discriminative Loss during D Training = 7.964599132537842, during G Training = 17.45215606689453
+	 -> Generative Loss = 225.64862060546875 ---> alpha * 40.44377899169922 beta * 7.964599132537842
+	 -> Validation Loss = 289.094482421875
+
+EPOCH 83
+	 -> Discriminative Loss during D Training = 7.652066707611084, during G Training = 18.59720802307129
+	 -> Generative Loss = 231.67086791992188 ---> alpha * 39.6214714050293 beta * 7.652066707611084
+	 -> Validation Loss = 251.86627197265625
+
+EPOCH 84
+	 -> Discriminative Loss during D Training = 7.562065124511719, during G Training = 17.2281494140625
+	 -> Generative Loss = 258.251953125 ---> alpha * 39.758644104003906 beta * 7.562065124511719
+	 -> Validation Loss = 346.63043212890625
+
+EPOCH 85
+	 -> Discriminative Loss during D Training = 7.683947563171387, during G Training = 15.880583763122559
+	 -> Generative Loss = 242.42825317382812 ---> alpha * 40.244224548339844 beta * 7.683947563171387
+	 -> Validation Loss = 298.2471618652344
+
+EPOCH 86
+	 -> Discriminative Loss during D Training = 8.020363807678223, during G Training = 17.75370979309082
+	 -> Generative Loss = 262.5203857421875 ---> alpha * 40.63909912109375 beta * 8.020363807678223
+	 -> Validation Loss = 261.6605224609375
+
+EPOCH 87
+	 -> Discriminative Loss during D Training = 7.758577823638916, during G Training = 12.391365051269531
+	 -> Generative Loss = 230.45542907714844 ---> alpha * 40.27885818481445 beta * 7.758577823638916
+	 -> Validation Loss = 305.96051025390625
+
+EPOCH 88
+	 -> Discriminative Loss during D Training = 7.926227569580078, during G Training = 18.653188705444336
+	 -> Generative Loss = 298.93597412109375 ---> alpha * 40.18398666381836 beta * 7.926227569580078
+	 -> Validation Loss = 278.8211669921875
+
+EPOCH 89
+	 -> Discriminative Loss during D Training = 7.93641471862793, during G Training = 12.837726593017578
+	 -> Generative Loss = 319.7891845703125 ---> alpha * 40.44337844848633 beta * 7.93641471862793
+	 -> Validation Loss = 271.93780517578125
+
+EPOCH 90
+	 -> Discriminative Loss during D Training = 7.862067222595215, during G Training = 16.749088287353516
+	 -> Generative Loss = 233.22048950195312 ---> alpha * 40.05988311767578 beta * 7.862067222595215
+	 -> Validation Loss = 247.9372100830078
+
+EPOCH 91
+	 -> Discriminative Loss during D Training = 7.904983043670654, during G Training = 19.145132064819336
+	 -> Generative Loss = 414.3949279785156 ---> alpha * 40.06005859375 beta * 7.904983043670654
+	 -> Validation Loss = 238.00868225097656
+
+EPOCH 92
+	 -> Discriminative Loss during D Training = 7.9081130027771, during G Training = 14.942583084106445
+	 -> Generative Loss = 369.50836181640625 ---> alpha * 39.77153778076172 beta * 7.9081130027771
+	 -> Validation Loss = 197.00306701660156
+
+EPOCH 93
+	 -> Discriminative Loss during D Training = 7.9968366622924805, during G Training = 18.79296112060547
+	 -> Generative Loss = 289.9254150390625 ---> alpha * 39.52586364746094 beta * 7.9968366622924805
+	 -> Validation Loss = 202.86392211914062
+
+EPOCH 94
+	 -> Discriminative Loss during D Training = 7.903528213500977, during G Training = 16.330154418945312
+	 -> Generative Loss = 387.49053955078125 ---> alpha * 39.71151351928711 beta * 7.903528213500977
+	 -> Validation Loss = 262.5658874511719
+
+EPOCH 95
+	 -> Discriminative Loss during D Training = 7.79132080078125, during G Training = 11.985626220703125
+	 -> Generative Loss = 277.36163330078125 ---> alpha * 39.7252197265625 beta * 7.79132080078125
+	 -> Validation Loss = 250.38348388671875
+
+EPOCH 96
+	 -> Discriminative Loss during D Training = 7.780611515045166, during G Training = 18.561147689819336
+	 -> Generative Loss = 203.16653442382812 ---> alpha * 39.2704963684082 beta * 7.780611515045166
+	 -> Validation Loss = 271.0357360839844
+
+EPOCH 97
+	 -> Discriminative Loss during D Training = 7.824283599853516, during G Training = 8.738288879394531
+	 -> Generative Loss = 284.3538818359375 ---> alpha * 39.566734313964844 beta * 7.824283599853516
+	 -> Validation Loss = 192.853759765625
+
+EPOCH 98
+	 -> Discriminative Loss during D Training = 7.793763160705566, during G Training = 18.396648406982422
+	 -> Generative Loss = 310.7144775390625 ---> alpha * 39.43471145629883 beta * 7.793763160705566
+	 -> Validation Loss = 267.5550842285156
+
+EPOCH 99
+	 -> Discriminative Loss during D Training = 7.734130859375, during G Training = 19.44687271118164
+	 -> Generative Loss = 205.80343627929688 ---> alpha * 39.36942672729492 beta * 7.734130859375
+	 -> Validation Loss = 227.48402404785156
+
+EPOCH 100
+	 -> Discriminative Loss during D Training = 7.952254295349121, during G Training = 11.602424621582031
+	 -> Generative Loss = 221.49859619140625 ---> alpha * 39.33063888549805 beta * 7.952254295349121
+	 -> Validation Loss = 218.94644165039062
+
+EPOCH 101
+	 -> Discriminative Loss during D Training = 7.969142913818359, during G Training = 19.148794174194336
+	 -> Generative Loss = 222.24966430664062 ---> alpha * 39.150054931640625 beta * 7.969142913818359
+	 -> Validation Loss = 226.16128540039062
+
+EPOCH 102
+	 -> Discriminative Loss during D Training = 7.982963562011719, during G Training = 15.156352043151855
+	 -> Generative Loss = 318.17083740234375 ---> alpha * 39.009273529052734 beta * 7.982963562011719
+	 -> Validation Loss = 303.65118408203125
+
+EPOCH 103
+	 -> Discriminative Loss during D Training = 7.957876205444336, during G Training = 16.32955551147461
+	 -> Generative Loss = 301.24273681640625 ---> alpha * 39.14226150512695 beta * 7.957876205444336
+	 -> Validation Loss = 251.92034912109375
+
+EPOCH 104
+	 -> Discriminative Loss during D Training = 8.014365196228027, during G Training = 14.33418083190918
+	 -> Generative Loss = 278.341552734375 ---> alpha * 39.027164459228516 beta * 8.014365196228027
+	 -> Validation Loss = 250.71751403808594
+
+EPOCH 105
+	 -> Discriminative Loss during D Training = 7.999007225036621, during G Training = 19.127849578857422
+	 -> Generative Loss = 202.76388549804688 ---> alpha * 38.86211013793945 beta * 7.999007225036621
+	 -> Validation Loss = 221.91432189941406
+
+EPOCH 106
+	 -> Discriminative Loss during D Training = 7.91475248336792, during G Training = 9.620821952819824
+	 -> Generative Loss = 244.03993225097656 ---> alpha * 38.90533447265625 beta * 7.91475248336792
+	 -> Validation Loss = 246.44375610351562
+
+EPOCH 107
+	 -> Discriminative Loss during D Training = 8.043045043945312, during G Training = 14.055253982543945
+	 -> Generative Loss = 335.19073486328125 ---> alpha * 38.71993637084961 beta * 8.043045043945312
+	 -> Validation Loss = 254.4585723876953
+
+EPOCH 108
+	 -> Discriminative Loss during D Training = 7.939101696014404, during G Training = 17.590499877929688
+	 -> Generative Loss = 191.37460327148438 ---> alpha * 38.64206314086914 beta * 7.939101696014404
+	 -> Validation Loss = 223.0137176513672
+
+EPOCH 109
+	 -> Discriminative Loss during D Training = 7.779731273651123, during G Training = 11.570647239685059
+	 -> Generative Loss = 207.72825622558594 ---> alpha * 38.78993606567383 beta * 7.779731273651123
+	 -> Validation Loss = 283.05279541015625
+
+EPOCH 110
+	 -> Discriminative Loss during D Training = 7.798336029052734, during G Training = 12.331315994262695
+	 -> Generative Loss = 330.3133850097656 ---> alpha * 38.57022476196289 beta * 7.798336029052734
+	 -> Validation Loss = 248.22386169433594
+
+EPOCH 111
+	 -> Discriminative Loss during D Training = 7.724374294281006, during G Training = 12.458889961242676
+	 -> Generative Loss = 320.3659362792969 ---> alpha * 38.7208137512207 beta * 7.724374294281006
+	 -> Validation Loss = 184.959716796875
+
+EPOCH 112
+	 -> Discriminative Loss during D Training = 7.665168285369873, during G Training = 19.094070434570312
+	 -> Generative Loss = 318.0080871582031 ---> alpha * 38.66423034667969 beta * 7.665168285369873
+	 -> Validation Loss = 226.34970092773438
+
+EPOCH 113
+	 -> Discriminative Loss during D Training = 7.832829475402832, during G Training = 2.682682514190674
+	 -> Generative Loss = 142.2420654296875 ---> alpha * 38.60404968261719 beta * 7.832829475402832
+	 -> Validation Loss = 168.10653686523438
+
+EPOCH 114
+	 -> Discriminative Loss during D Training = 7.930976390838623, during G Training = 12.408243179321289
+	 -> Generative Loss = 251.02488708496094 ---> alpha * 38.40470504760742 beta * 7.930976390838623
+	 -> Validation Loss = 197.64425659179688
+
+EPOCH 115
+	 -> Discriminative Loss during D Training = 7.870206356048584, during G Training = 8.322630882263184
+	 -> Generative Loss = 307.2414245605469 ---> alpha * 38.52395248413086 beta * 7.870206356048584
+	 -> Validation Loss = 281.0552062988281
+
+EPOCH 116
+	 -> Discriminative Loss during D Training = 7.774942398071289, during G Training = 0.00014638062566518784
+	 -> Generative Loss = 174.08334350585938 ---> alpha * 38.31950378417969 beta * 7.774942398071289
+	 -> Validation Loss = 224.5933837890625
+
+EPOCH 117
+	 -> Discriminative Loss during D Training = 7.74989128112793, during G Training = 14.23372745513916
+	 -> Generative Loss = 219.74588012695312 ---> alpha * 38.24143600463867 beta * 7.74989128112793
+	 -> Validation Loss = 268.940185546875
+
+EPOCH 118
+	 -> Discriminative Loss during D Training = 7.604963302612305, during G Training = 16.286935806274414
+	 -> Generative Loss = 366.635498046875 ---> alpha * 38.070919036865234 beta * 7.604963302612305
+	 -> Validation Loss = 232.56915283203125
+
+EPOCH 119
+	 -> Discriminative Loss during D Training = 7.658824920654297, during G Training = 20.761350631713867
+	 -> Generative Loss = 279.44659423828125 ---> alpha * 38.340206146240234 beta * 7.658824920654297
+	 -> Validation Loss = 234.83856201171875
+
+EPOCH 120
+	 -> Discriminative Loss during D Training = 7.652787208557129, during G Training = 16.287437438964844
+	 -> Generative Loss = 182.3076629638672 ---> alpha * 38.21452331542969 beta * 7.652787208557129
+	 -> Validation Loss = 182.01087951660156
+
+EPOCH 121
+	 -> Discriminative Loss during D Training = 7.686059474945068, during G Training = 16.96106719970703
+	 -> Generative Loss = 238.52352905273438 ---> alpha * 38.187522888183594 beta * 7.686059474945068
+	 -> Validation Loss = 238.19647216796875
+
+EPOCH 122
+	 -> Discriminative Loss during D Training = 7.522120475769043, during G Training = 19.339719772338867
+	 -> Generative Loss = 266.28411865234375 ---> alpha * 38.687217712402344 beta * 7.522120475769043
+	 -> Validation Loss = 263.2197265625
+
+EPOCH 123
+	 -> Discriminative Loss during D Training = 7.482723236083984, during G Training = 19.594385147094727
+	 -> Generative Loss = 215.81109619140625 ---> alpha * 38.245155334472656 beta * 7.482723236083984
+	 -> Validation Loss = 205.22390747070312
+
+EPOCH 124
+	 -> Discriminative Loss during D Training = 7.60801887512207, during G Training = 16.68473243713379
+	 -> Generative Loss = 203.14871215820312 ---> alpha * 38.549129486083984 beta * 7.60801887512207
+	 -> Validation Loss = 215.92608642578125
+
+EPOCH 125
+	 -> Discriminative Loss during D Training = 7.74459981918335, during G Training = 14.911188125610352
+	 -> Generative Loss = 322.995849609375 ---> alpha * 38.25563430786133 beta * 7.74459981918335
+	 -> Validation Loss = 227.0734100341797
+
+EPOCH 126
+	 -> Discriminative Loss during D Training = 7.73684549331665, during G Training = 18.169517517089844
+	 -> Generative Loss = 217.52706909179688 ---> alpha * 38.12679672241211 beta * 7.73684549331665
+	 -> Validation Loss = 214.84848022460938
+
+EPOCH 127
+	 -> Discriminative Loss during D Training = 7.730841159820557, during G Training = 15.581646919250488
+	 -> Generative Loss = 256.7158203125 ---> alpha * 39.360755920410156 beta * 7.730841159820557
+	 -> Validation Loss = 266.91302490234375
+
+EPOCH 128
+	 -> Discriminative Loss during D Training = 7.806216716766357, during G Training = 15.591949462890625
+	 -> Generative Loss = 370.4551696777344 ---> alpha * 38.63996505737305 beta * 7.806216716766357
+	 -> Validation Loss = 198.86334228515625
+
+EPOCH 129
+	 -> Discriminative Loss during D Training = 7.7851457595825195, during G Training = 13.676939010620117
+	 -> Generative Loss = 266.6844482421875 ---> alpha * 38.67250061035156 beta * 7.7851457595825195
+	 -> Validation Loss = 293.5157470703125
+
+EPOCH 130
+	 -> Discriminative Loss during D Training = 7.551638603210449, during G Training = 16.479263305664062
+	 -> Generative Loss = 237.7549591064453 ---> alpha * 38.949771881103516 beta * 7.551638603210449
+	 -> Validation Loss = 282.176513671875
+
+EPOCH 131
+	 -> Discriminative Loss during D Training = 7.6113152503967285, during G Training = 4.643606662750244
+	 -> Generative Loss = 246.55029296875 ---> alpha * 38.27751922607422 beta * 7.6113152503967285
+	 -> Validation Loss = 216.93917846679688
+
+EPOCH 132
+	 -> Discriminative Loss during D Training = 7.671295642852783, during G Training = 12.204123497009277
+	 -> Generative Loss = 276.3120422363281 ---> alpha * 38.39373779296875 beta * 7.671295642852783
+	 -> Validation Loss = 220.2704315185547
+
+EPOCH 133
+	 -> Discriminative Loss during D Training = 7.553880214691162, during G Training = 13.261785507202148
+	 -> Generative Loss = 246.41122436523438 ---> alpha * 38.45702362060547 beta * 7.553880214691162
+	 -> Validation Loss = 199.58518981933594
+
+EPOCH 134
+	 -> Discriminative Loss during D Training = 7.4355549812316895, during G Training = 17.9254150390625
+	 -> Generative Loss = 240.27947998046875 ---> alpha * 38.46602249145508 beta * 7.4355549812316895
+	 -> Validation Loss = 248.12001037597656
+
+EPOCH 135
+	 -> Discriminative Loss during D Training = 7.51409387588501, during G Training = 18.536399841308594
+	 -> Generative Loss = 197.39854431152344 ---> alpha * 38.30988693237305 beta * 7.51409387588501
+	 -> Validation Loss = 176.77210998535156
+
+EPOCH 136
+	 -> Discriminative Loss during D Training = 7.424710750579834, during G Training = 19.915691375732422
+	 -> Generative Loss = 255.14283752441406 ---> alpha * 38.49765396118164 beta * 7.424710750579834
+	 -> Validation Loss = 182.35411071777344
+
+EPOCH 137
+	 -> Discriminative Loss during D Training = 7.449489593505859, during G Training = 19.03569793701172
+	 -> Generative Loss = 282.6334533691406 ---> alpha * 38.312686920166016 beta * 7.449489593505859
+	 -> Validation Loss = 276.740478515625
+
+EPOCH 138
+	 -> Discriminative Loss during D Training = 7.390811920166016, during G Training = 16.417972564697266
+	 -> Generative Loss = 396.47039794921875 ---> alpha * 38.28086471557617 beta * 7.390811920166016
+	 -> Validation Loss = 230.16563415527344
+
+EPOCH 139
+	 -> Discriminative Loss during D Training = 7.378427028656006, during G Training = 17.436763763427734
+	 -> Generative Loss = 296.02783203125 ---> alpha * 38.33021545410156 beta * 7.378427028656006
+	 -> Validation Loss = 242.27200317382812
+
+EPOCH 140
+	 -> Discriminative Loss during D Training = 7.527090549468994, during G Training = 17.240570068359375
+	 -> Generative Loss = 243.0867462158203 ---> alpha * 38.865013122558594 beta * 7.527090549468994
+	 -> Validation Loss = 316.3749084472656
+
+EPOCH 141
+	 -> Discriminative Loss during D Training = 7.494164943695068, during G Training = 17.231075286865234
+	 -> Generative Loss = 211.36178588867188 ---> alpha * 38.22977828979492 beta * 7.494164943695068
+	 -> Validation Loss = 188.17001342773438
+
+EPOCH 142
+	 -> Discriminative Loss during D Training = 7.3270792961120605, during G Training = 14.509571075439453
+	 -> Generative Loss = 308.593994140625 ---> alpha * 38.3839111328125 beta * 7.3270792961120605
+	 -> Validation Loss = 255.445068359375
+
